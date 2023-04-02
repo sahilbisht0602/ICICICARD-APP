@@ -1,4 +1,3 @@
-import "./App.css";
 import React from "react";
 import "./index.css";
 import Card from "./components/Card";
